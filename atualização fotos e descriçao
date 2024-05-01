@@ -1,0 +1,23 @@
+<h1>Projeto Mario & Luigi</h1>
+<p> Bem-vindo ao mundo onde a aventura encontra a praticidade, onde os desafios são enfrentados com criatividade e os heróis se destacam em meio ao encanamento! Seja bem-vindo ao nosso universo único, onde os icônicos irmãos Mario e Luigi se unem à nossa equipe de bombeiros hidráulicos para tornar sua experiência ainda mais especial.</p>
+<br>
+
+<br>
+<h3>Página ínicial</h3>
+<p>Na página inicial, você encontra uma imagem e um vídeo de fundo dos irmãos Mario e Luigi para dar as boas-vindas aos visitantes.</p>
+<img src="https://github.com/Iurypierot/Projeto-Mario-Luigi/blob/main/img/mario%20luigi%20normal.png?raw=true"/>
+<br>
+<h3>Caixa input</h3>
+<p>No botão ENTRE EM CONTATO ou no link FALE CONOSCO, você encontra um formulário para dúvidas e solicitações de orçamento. </p>
+<img src="https://github.com/Iurypierot/Projeto-Mario-Luigi/blob/main/img/mario%20e%20luigi%20notifica%C3%A7%C3%A3o.png?raw=true"/>
+
+<h2>Nesse projeto, a tecnologia que foi utilizada.</h2>
+<br>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<br>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
